@@ -182,7 +182,6 @@ its sure-hit effect to
 
 44
 00:10:38,944 --> 00:10:42,829
-
 a maximum 200-meter radius.
 
 45
